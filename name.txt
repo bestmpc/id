@@ -1,1 +1,12 @@
+Nama Depan Indonesia:
+Adi, Agus, Ani, Budi, Citra, Dewi, Eka, Faisal, Gita, Hadi, Indah, Joko, Kartika, Lina, Mulyadi, Nina, Purnama, Rahayu, Santoso, Titi, Wijaya
+
+Nama Belakang Indonesia:
+Ardianto, Budiarto, Cahyono, Dewantara, Eka Putra, Fauzi, Gunawan, Hermawan, Indriani, Jaya, Kusuma, Lestari, Mulyadi, Nugroho, Purnomo, Rahayu, Santoso, Wijaya, Yuliana, Zainuddin
+
+Nama Depan English:
+John, Mary, David, Emily, Michael, Olivia, William, Sophia, James, Emma, Alexander, Isabella, Christopher, Ava, Matthew, Abigail, Daniel, Mia, Joseph, Samantha
+
+Nama Belakang English:
+Smith, Johnson, Brown, Taylor, Anderson, Martinez, Jackson, White, Harris, Clark, Lewis, Young, Walker, Hall, King, Wright, Turner, Green, Evans, Baker
 
