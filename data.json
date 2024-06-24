@@ -1,8 +1,5 @@
 {
-	"id_grup_diizinkan": [],
-	"izin_user": [],
-	"admin_mpc": [],
-	"id_telegram": [
+    "id_telegram": [
         123456789,
         987654321,
         -123456789,
